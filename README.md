@@ -1,4 +1,6 @@
-# Sodium Extra
+# Sodium Extra - CodeF53 Editon
+
+Brings back cheaty features.
 
 ![Java 8](https://img.shields.io/badge/language-Java%208-9B599A.svg?style=flat-square)
 [![Project License](https://img.shields.io/github/license/FlashyReese/sodium-extra-fabric?style=flat-square)](LICENSE.txt)
