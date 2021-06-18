@@ -320,7 +320,7 @@ public class SodiumExtraGameOptionPages {
                 )
                 .build());
 
-        if (!SodiumExtraClientMod.options().extraSettings.hideCheats) {
+        // if (!SodiumExtraClientMod.options().extraSettings.hideCheats) {
             groups.add(OptionGroup.createBuilder()
                     .add(OptionImpl.createBuilder(boolean.class, sodiumExtraOpts)
                             .setName("High Max Brightness")
@@ -346,7 +346,7 @@ public class SodiumExtraGameOptionPages {
                             .build()
                     )
                     .build());
-        }
+        //}
 
         return new OptionPage("Extras", ImmutableList.copyOf(groups));
     }
