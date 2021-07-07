@@ -1,4 +1,4 @@
-# Sodium Extra - CodeF53 Editon
+# Sodium Extra - CodeF53 Edition
 
 Brings back cheaty features.
 
